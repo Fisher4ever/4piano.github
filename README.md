@@ -1,4 +1,4 @@
-# 4piano.githuba
+# 4piano.github
 
 - This repository is used for redirecting. 
 
